@@ -17,6 +17,9 @@ App SACRE
 - &[archivo] Documento realizado / pendiente de envío o no
 - ->[archivo] Documento/s enviado
 
+## AUDIOS
+`Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt` Si no hay descarga, sólo la hora del audio
+
 ## SITES
 
 - <https://sites.google.com/d/1rdCwy_a6cX_IkRKHbZhYFx6plVWmOPFT/p/17oi02lEZ5HsNvZK0jvukrWODXXdAfAp9/edit>

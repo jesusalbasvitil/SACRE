@@ -59,53 +59,5 @@ Robledal al final cuesta con robles y P. tremula y F. excelsior y P. avium A la 
 `Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt`
 
 
-- 4 garrapinos 
-- 1 mirlo
-`Audio de WhatsApp 2025-05-01 a las 10.25`
-
-- 4 buitres
-- 3 listados
-`Audio de WhatsApp 2025-05-01 a las 10.25`
-
-Cruce pista Ordiceto paso Caballos
-- 2 acentores
-- 2 garrapinos
-- 2 petirrojos
-- 1 listado
-
-`Audio de WhatsApp 2025-05-01 a las 10.36`
-
-
-- 4 petirrojos
-- 2 garrapinos
-- 1 pinzón
-- antes otro acentor
-- otros 2 garrapinos lejos
-- otro peti
-- listado
-Pinar silvestre con sotobosque avellanos y enebros (más abundante)
-pos 8 ó 9 Vista Virgen Blanca
-`Audio de WhatsApp 2025-05-01 a las 10.44`
-
-
-
-pos 8-7 Desvío Tabernes
-- 4 papialbos
-- 1 mito
-- 2 garrapinos 
-- 2 pinzones
-`Audio de WhatsApp 2025-05-01 a las 10.55`
-
-- Antes cruce 2 escribanos montesinos
-- 2 garrapinos
-- 2 petirrojos
-- 2 pinzones
-pos 6 Pte. Tabernes
-- papialbo
-`Audio de WhatsApp 2025-05-01 a las 11.09`
-
-
-
-
 
 `Audio de WhatsApp 2025-05-01 a las 13.46.08_d1dacc97`
