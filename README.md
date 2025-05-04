@@ -1,7 +1,6 @@
 # SACRE
 
 Registers about common birds y six grids in Aragón, Spain for SEO / BirdLife
-
 App SACRE
 `!Seis18762158` `jesusalbasvitil@gmail.com`
 
@@ -18,7 +17,11 @@ App SACRE
 - ->[archivo] Documento/s enviado
 
 ## AUDIOS
-`Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt` Si no hay descarga, sólo la hora del audio
+`Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt` 
+- Si no hay descarga, sólo la hora del audio. No código
+
+*- 3 garrapinos Penúltima pos*
+- En cursiva, repetición del audio en la pos mencionada. En el ejemplo, viene de la transcripción del audio siguiente
 
 ## SITES
 
