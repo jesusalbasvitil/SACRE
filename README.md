@@ -1,6 +1,6 @@
 # SACRE
 
-Registers about common birds y six grids in Aragón, Spain for SEO / BirdLife
+Registers about common birds on six grids in Teruel an Huesca, and three in Zgz city (Urban SACRE), in Aragón , Spain for SEO / BirdLife
 App SACRE
 `!Seis18762158` `jesusalbasvitil@gmail.com`
 
