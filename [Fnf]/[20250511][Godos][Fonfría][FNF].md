@@ -34,7 +34,7 @@ Val cultivada junto con almedrales y viñedos alternando con monte de suelo esqu
 `Audio de WhatsApp 2025-05-11 a las 10.01.57_b1455686`
 
 
-##Fnf3
+## Fnf3
 *- Lechuza campestre punto anterior*
 - 2 trigueros
 - 4 alondras
@@ -59,6 +59,58 @@ Inmediaciones de robledal de quejigo con servales, rosales, enebros y sabinas
 ----
 `Audio de WhatsApp 2025-05-11 a las 10.21.55_6f00eccc`
 
-
+## Fnf 6-7
+Proximidades 7 
+- 2 Alondras
+- Collalba gris
+- Codorniz
 ----
 `Audio de WhatsApp 2025-05-11 a las 10.35.39_a8b8720a`
+
+## Fnf 7
+- Papialbo
+- 3 trigueros
+- 6 pardillos
+- 3 ruiseñores
+- 1 pinzón
+- 2 verderones
+- Collalba gris 
+- Estornino
+----
+`Audio de WhatsApp 2025-05-11 a las 10.42.48_2d42bf1d`
+
+
+*## Fnf 7*
+----
+`Audio de WhatsApp 2025-05-11 a las 10.43.09_4aa3a0e0`
+
+ 
+- 2 perdices +50 m junto al soto en margen secano
+- codorniz
+- mosquitero
+- Se oyen los ruiseñores pos. anterior
+`Audio de WhatsApp 2025-05-11 a las 10.44.56_4fd47ad9`
+
+
+- 9 bravias
+- 2 estorn
+- 1 triguero
+
+----
+`Audio de WhatsApp 2025-05-11 a las 10.48.20_9686a75d`
+
+## Fnf8
+- 2 tarabillas
+- 11 torcaces
+- 6 bravias
+- 1 tórtola común
+- Alondra
+
+----
+`Audio de WhatsApp 2025-05-11 a las 10.53.03_18c551b3`
+
+## 
+
+----
+`Audio de WhatsApp 2025-05-11 a las 11.09.48_20131205`
+
