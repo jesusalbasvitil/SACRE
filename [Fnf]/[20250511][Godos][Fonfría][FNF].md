@@ -21,7 +21,7 @@
 - 1 alondra
 - 2 trigueros
 - 1 ruiseñor
-
+----
 `Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd.waptt`
 
 Val cultivada junto con almedrales y viñedos alternando con monte de suelo esquelético de caliza con ontina D, aliaga C, y retama A, y rosales A, en zonas más húmedas, astrágalos, jarilla-->
