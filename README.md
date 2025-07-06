@@ -3,6 +3,12 @@
 Registers about common birds on six grids in Teruel an Huesca, and three in Zgz city (Urban SACRE), in Aragón , Spain for SEO / BirdLife
 <!--App SACRE !Seis18762158` `jesusalbasvitil@gmail.com-->
 
+## Fecha entrega datos 31 de julio
+[INSTRUCCIONES SACRE RECORRIDOS](https://seo.org/wp-content/uploads/2021/03/INSTRUCCIONES-SACRE-RECORRIDOS.pdf)
+
+## FICHA PARA ENVIAR
+[Especies Sacre](https://seo.org/wp-content/uploads/2018/06/Fichaespecies2018.pdf)
+
 # LIBRO DE ESTILO
 
 ## PROTOCOLO [https://drive.google.com/drive/u/2/home] [50oe0092]
