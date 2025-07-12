@@ -54,6 +54,8 @@ Comentarios de audio en normal
 
 - 2 `bisbita` ID especie probable en eBird
 
+*- Lechuza campestre punto anterior* Transcripción y registro en donde se cita / comentario transcrito
+
 
 ## AUDIOS
 `Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt` 

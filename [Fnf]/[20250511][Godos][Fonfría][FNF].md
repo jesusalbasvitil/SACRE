@@ -1,6 +1,25 @@
-# [20250511][Godos][Fonfría][FNF]
+# [![20250511][Godos][Fonfría][fnf]]()
+<!--MODELO
+# [#[20250418] [Vstb]](https://drive.google.com/drive/folders/1QmPpMglHaVGhmEvUFD5_p6lZT1EqGVr4?usp=drive_link)
 
-## Fonfria 1 [Fnf1]
+- ## [Trrl1][Trrl2][41,016475,-1,597704][9:32]
+Estructura subtítulo. Funcionan como etiquetas
+
+- () comentarios a posteriori
+Comentarios de audio en normal
+
+- [audio] Buscar en BirdNET archivo día y hora
+
+- 2 `bisbita` ID especie probable en eBird
+
+
+
+## Vistabella 1 [Vstb1]
+## Casablanca 1 [Csbl1][PO01]
+## Vistabella 2 [Vstb2] Tramo 1-2
+-->
+
+## [Fonfria][Fnf1][09:46]
 - Codorniz
 - Gorriones chillones en Godos
 - 2 cenizos (machos; inmaduro y adulto)
@@ -8,33 +27,19 @@
 - 4 alondras
 - 1 ruiseñor
 
-----
-`Audio de WhatsApp 2025-05-11 a las 09.46.30_c5f103ae`
 
-<!--MODELO
-# [#[20250418] [Vstb]](https://drive.google.com/drive/folders/1QmPpMglHaVGhmEvUFD5_p6lZT1EqGVr4?usp=drive_link)
+Audio de WhatsApp 2025-05-11 a las 09.46.30_c5f103ae
 
-## Vistabella 1 [Vstb1]
 
-- 3 pardillos
-- 2 rabilargas
-- 1 alondra
-- 2 trigueros
-- 1 ruiseñor
-----
-`Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd.waptt`
-
-Val cultivada junto con almedrales y viñedos alternando con monte de suelo esquelético de caliza con ontina D, aliaga C, y retama A, y rosales A, en zonas más húmedas, astrágalos, jarilla-->
-
-## Fnf2
+## [Fnf2][10:01]
 - Codorniz
 - 2-3 alondras pero podrían pertenecer a cuadrícula anterior
 - lechuza campestre
-----
-`Audio de WhatsApp 2025-05-11 a las 10.01.57_b1455686`
+
+Audio de WhatsApp 2025-05-11 a las 10.01.57_b1455686
 
 
-## Fnf3
+## [Fnf3][10:09]
 *- Lechuza campestre punto anterior*
 - 2 trigueros
 - 4 alondras
@@ -64,6 +69,7 @@ Proximidades 7
 - 2 Alondras
 - Collalba gris
 - Codorniz
+
 ----
 `Audio de WhatsApp 2025-05-11 a las 10.35.39_a8b8720a`
 
