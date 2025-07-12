@@ -216,7 +216,7 @@ Group species by positions and distribute both "section" and "repetition" specie
 "Station" is the "position" of the table.
 "Detection Radius" is assigned randomly.
 
-Generate a markdown file from the pdf with each "Estación": two columns "Especie" and "Radio.." and inside "Radio.." another subcolumns "<25 m" and ">25 m"
+Generate a markdown file from the pdf with each "Estación": two columns "Especie" and "Radio.." and below "Radio.." another subcolumns "<25 m" and ">25 m"
 ## Tendencia de las aves en primavera - FICHA DE CAMPO
 
 ## Estación 1
