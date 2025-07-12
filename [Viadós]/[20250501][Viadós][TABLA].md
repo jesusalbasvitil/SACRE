@@ -109,7 +109,7 @@
 
 Group species by positions and distribute both "section" and "repetition" species, but they do not add up, but rather are the average without decimals
 
-# Bird Observations Table - Viadós (Updated)
+## Bird Observations Table - Viadós (Updated)
 
 | Position | Species | Count | Time | Latin Name |
 |----------|---------|-------|------|------------|
@@ -215,3 +215,294 @@ Group species by positions and distribute both "section" and "repetition" specie
 3. Fill out the attached PDF with the data from the generated table. Only the "Station," "Detection Radius," and "Start Time" fields are used.
 "Station" is the "position" of the table.
 "Detection Radius" is assigned randomly.
+
+Generate a markdown file from the pdf with each "Estación": two columns "Especie" and "Radio.." and inside "Radio.." another subcolumns "<25 m" and ">25 m"
+## Tendencia de las aves en primavera - FICHA DE CAMPO
+
+## Estación 1
+**Hora de Inicio:** 12:24
+
+| Especie | Radio de detección      |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Oenanthe oenanthe | 1 |  |
+| Saxicola rubetra | 2 |  |
+| Saxicola rubicola |  | 2 |
+| Anthus pratensis | 6 |  |
+| Emberiza cia |  | 6 |
+| Fringilla coelebs | 1 |  |
+| Sylvia atricapilla | 2 |  |
+| Erithacus rubecula |  | varios |
+| Periparus ater | 1 |  |
+| Lophophanes cristatus |  | 1 |
+
+## Estación 2
+**Hora de Inicio:** _____
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 3
+**Hora de Inicio:** _____
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 4
+**Hora de Inicio:** 11:41
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Saxicola rubetra | 2 |  |
+| Serinus citrinella |  | 1 |
+| Turdus merula | 1 |  |
+| Pyrrhocorax graculus |  | 2 |
+| Tichodroma muraria |  | 2 |
+| Falco tinnunculus |  | 1 |
+| Periparus ater | 2-3 |  |
+| Anthus pratensis | 3-4 |  |
+| Alauda arvensis |  | 1 |
+| Fringilla coelebs | 1 |  |
+
+## Estación 5
+**Hora de Inicio:** 13:07
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Turdus merula | 2 |  |
+| Alauda arvensis |  | 1 |
+| Anthus pratensis | 4-5 |  |
+| Periparus ater | 1 |  |
+| Cyanistes caeruleus |  | 1 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 6
+**Hora de Inicio:** 11:09
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Delichon urbicum |  | 1 |
+| Regulus regulus | 1 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 7
+**Hora de Inicio:** 10:55
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Delichon urbicum |  | 4 |
+| Aegithalos caudatus | 1 |  |
+| Periparus ater | 2 |  |
+| Fringilla coelebs | 2 |  |
+| Emberiza cia |  | 2 |
+| Erithacus rubecula | 2 |  |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 8
+**Hora de Inicio:** 10:44
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Erithacus rubecula | 4 |  |
+| Periparus ater | 2 |  |
+| Fringilla coelebs | 1 |  |
+| Prunella collaris |  | 1 |
+| Regulus regulus | 1 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 9
+**Hora de Inicio:** 13:19
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Erithacus rubecula | 6 |  |
+| Fringilla coelebs |  | 6 |
+| Periparus ater | 2 |  |
+| Delichon urbicum |  | 1 |
+| Cyanistes caeruleus | 1 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 10
+**Hora de Inicio:** 10:36
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Prunella collaris |  | 2 |
+| Periparus ater | 2 |  |
+| Erithacus rubecula | 2 |  |
+| Regulus regulus | 1 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 11
+**Hora de Inicio:** 10:25
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Periparus ater | 4 |  |
+| Turdus merula | 1 |  |
+| Gyps fulvus |  | 4 |
+| Regulus regulus | 3 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 12
+**Hora de Inicio:** 13:28
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Poecile palustris | 1 |  |
+| Periparus ater | 2 |  |
+| Cyanistes caeruleus |  | 1 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 13
+**Hora de Inicio:** 10:07
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Periparus ater | 1 |  |
+| Cyanistes caeruleus | 1 |  |
+| Erithacus rubecula | 3 |  |
+| Regulus regulus | 2 |  |
+| Gyps fulvus |  | 1 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 14
+**Hora de Inicio:** 09:57
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Cyanistes caeruleus | 1 |  |
+| Erithacus rubecula |  | 1 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 15
+**Hora de Inicio:** 09:54
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Dendrocopos major | 1 |  |
+| Erithacus rubecula |  | 3-4 |
+| Fringilla coelebs | 3 |  |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 16
+**Hora de Inicio:** 09:53
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Regulus regulus | 2 |  |
+| Turdus merula | 1 |  |
+| Fringilla coelebs | 2 |  |
+| Sylvia atricapilla |  | 1 |
+| Periparus ater | 2 |  |
+| Cyanistes caeruleus | 3 |  |
+| Erithacus rubecula | 2 |  |
+| Aegithalos caudatus |  | 1 |
+
+## Estación 17
+**Hora de Inicio:** _____
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 18
+**Hora de Inicio:** 09:30
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Fringilla coelebs | 2 |  |
+| Cyanistes caeruleus | 1 |  |
+| Sylvia atricapilla | 1 |  |
+| Prunella collaris |  | 3-4 |
+| Luscinia megarhynchos |  | 2 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 19
+**Hora de Inicio:** _____
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+| Cyanistes caeruleus | 1 |  |
+| Sylvia atricapilla | 1 |  |
+| Regulus regulus | 2 |  |
+| Turdus merula |  | 1 |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+
+## Estación 20
+**Hora de Inicio:** _____
+
+| Especie | Radio de detección |     |
+|---------|-------------------|-----|
+|         | <25 m             | >25 m |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
+|         |                   |     |
