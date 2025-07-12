@@ -112,3 +112,20 @@ Audio de WhatsApp
 2nd: Group species by positions and distribute both "section" and "repetition" species, but they do not add up, but rather are the average without decimals. 
 3td: In case of doubt assign randomize among the pos considerated 4th: Generate a new table with this conditions.
 
+12. Replicate this graphic in markdown file (imagen de una estación con sus columnas)
+
+| **Especie** | **Radio de detección**   |  
+|-------------|:----------------------:|--|
+|             | **<25 m**              | **>25 m** |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+|             |                        |           |
+
+**Hora de Inicio:** _______
+

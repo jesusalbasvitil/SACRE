@@ -222,9 +222,9 @@ Generate a markdown file from the pdf with each "Estación": two columns "Especi
 ## Estación 1
 **Hora de Inicio:** 12:24
 
-| Especie | Radio de detección      |
-|---------|-------------------|-----|
-|         | <25 m             | >25 m |
+| Especie     | Radio de detección|
+|-------------|---------|---------|
+|             |  <25 m  | >25 m   |
 | Oenanthe oenanthe | 1 |  |
 | Saxicola rubetra | 2 |  |
 | Saxicola rubicola |  | 2 |
