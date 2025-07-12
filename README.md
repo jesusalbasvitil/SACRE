@@ -52,9 +52,12 @@ Comentarios de audio en normal
 
 - [audio] Buscar en BirdNET archivo día y hora
 
-- 2 `bisbita` ID especie probable en eBird
+- 2 `bisbita` ID especie probable en eBird / nota urgente pte. resolver
 
 *- Lechuza campestre punto anterior* Transcripción y registro en donde se cita / comentario transcrito
+
+- ## [fnf6][40,919215,-1,096488][9:14] `confirmado` 
+Comprobadas coordenadas con GE porque había duda
 
 
 ## AUDIOS
@@ -84,11 +87,28 @@ Audio de WhatsApp
 1a. Genera una tabla en base al archivo adjunto [![Vstb][20250418].md], agrupando las observaciones de aves por subtítulos (## Vistabella 1 [Vstb1], por ejemplo) con sus nombres en latín y número de ejemplares) y archivo de audio al que pertenecen (Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd) Seleccionando solo la fecha y número (2025-04-18 a las 09.01.44_880c65dd)
 [Bird Observation Data Table by Location](https://claude.ai/chat/01e53f54-4ca8-4713-9d6c-15280d3d4ec3)
 
-1b. Con los datos del archivo [![Vstb][20250418].md], generar una tabla en markdown agrupando los datos de aves (los que llevan guion) por estaciones (señaladas con ##)  y archivo de audio del cual extraer fecha y código alfanumérico final
+1. Con los datos del archivo [![Vstb][20250418].md], generar una tabla en markdown agrupando los datos de aves (los que llevan guion) por estaciones (señaladas con ##)  y archivo de audio del cual extraer fecha y código alfanumérico final
 
-2b. Incluir por cada especie su nombre en cursiva latín entre paréntesis
+2. Incluir por cada especie su nombre en cursiva latín entre paréntesis
 
-3b. Reordenar la columna Estación de menor a mayor  y sustituir la columna Archivo de Audio por la hora, minutos [Tabular Summary of Bird Observations by Season with Audio File Details](https://claude.ai/chat/93e51060-6dea-4760-a92a-5d86d8a35215)
+3. Reordenar la columna Estación de menor a mayor  y sustituir la columna Archivo de Audio por la hora, minutos [Tabular Summary of Bird Observations by Season with Audio File Details](https://claude.ai/chat/93e51060-6dea-4760-a92a-5d86d8a35215)
 
-1c. Analizar la siguiente tabla y asignar los registros de (sin estación específica) a aquella estación cercana a  la hora en que se ha producido el avistamiento o cita
+11. Analizar la siguiente tabla y asignar los registros de (sin estación específica) a aquella estación cercana a  la hora en que se ha producido el avistamiento o cita
 [Assigning Bird Sightings to Nearest Stations](https://claude.ai/chat/41a5545c-a651-4a43-badf-584ef8d432eb)
+
+836 / 5.000
+1. Using the data from the file [![Vstb][20250418].md], generate a table in Markdown grouping the bird data (those with a hyphen) by season (marked with ##) and audio file, from which you can extract the date and final alphanumeric code.
+
+2. Include the Latin italicized name of each species in parentheses.
+
+3. Reorder the Season column from lowest to highest and replace the Audio File column with the hour and minute. [Tabular Summary of Bird Observations by Season with Audio File Details](https://claude.ai/chat/93e51060-6dea-4760-a92a-5d86d8a35215)
+
+[text](https://claude.ai/public/artifacts/4f48b8fa-74b2-4bef-88b0-8aeff0b6ffa6)
+
+11. Analyze the following table and assign the records (without a specific season) to the station closest to the time the sighting or citation occurred.
+[Assigning Bird Sightings to Nearest Stations](https://claude.ai/chat/41a5545c-a651-4a43-badf-584ef8d432eb)
+
+1st: Change acentor alpino with común and replace the name in latin 
+2nd: Group species by positions and distribute both "section" and "repetition" species, but they do not add up, but rather are the average without decimals. 
+3td: In case of doubt assign randomize among the pos considerated 4th: Generate a new table with this conditions.
+
