@@ -22,7 +22,10 @@ Registers about common birds on six grids in Teruel an Huesca, and three in Zgz 
 - ->[archivo] Documento/s enviado
 
 ## CABECERA
-    # [![20250524][Torralba][Trrl]]
+### Título 1  # [![20250524][Torralba][Trrl]]
+Estructura subtítulo. Funcionan como etiquetas
+
+### Cabecera a pegar en cada archivo
 <!--MODELO
 # [#[20250418] [Vstb]](https://drive.google.com/drive/folders/1QmPpMglHaVGhmEvUFD5_p6lZT1EqGVr4?usp=drive_link)
 
@@ -42,12 +45,21 @@ Comentarios de audio en normal
 ## Casablanca 1 [Csbl1][PO01]
 ## Vistabella 2 [Vstb2] Tramo 1-2
 -->
+### Subtítulo 2 ## [Trrl17][41,044174,-1,578581][11:48]
+
+### Tipologías
+- () comentarios a posteriori / Comentarios de audio en normal
+
+- [audio] Buscar en BirdNET archivo día y hora
+
+- 2 `bisbita` ID especie probable en eBird
+
 
 ## AUDIOS
 `Audio de WhatsApp 2025-05-01 a las 10.07.26_ce465c22.waptt` 
 Si no hay descarga, sólo la hora del audio. No código
 
-Cambio de estilo:
+Cambio de estilo 12/7/25:
 Audio de WhatsApp 2025-05-24 a las 10.39.06_61fc6530
 
 Audio de WhatsApp 
