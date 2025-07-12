@@ -49,7 +49,7 @@ Audio de WhatsApp 2025-05-11 a las 10.01.57_b1455686
 `Audio de WhatsApp 2025-05-11 a las 10.09.20_33f93aba`
 
 ## Fnf5
-*proximidades de Fonfría 4, pero vale para todo el recorrido por bici
+*proximidades de Fonfría 4, pero vale para todo el recorrido por bici*
 - 2 verdecillos
 - 1 pardillo Fnf1
 - Curruca carrasqueña
@@ -60,7 +60,7 @@ Audio de WhatsApp 2025-05-11 a las 10.01.57_b1455686
 - Alondras
 - oropéndola en robledal
 - 2 collalbas grises
-Inmediaciones de robledal de quejigo con servales, rosales, enebros y sabinas
+*Inmediaciones de robledal de quejigo con servales, rosales, enebros y sabinas*
 ----
 `Audio de WhatsApp 2025-05-11 a las 10.21.55_6f00eccc`
 

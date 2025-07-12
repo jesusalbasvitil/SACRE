@@ -84,7 +84,7 @@ Audio de WhatsApp
 ## [ISSUES](https://github.com/issues)
 
 ## Prompts/Script
-1a. Genera una tabla en base al archivo adjunto [![Vstb][20250418].md], agrupando las observaciones de aves por subtítulos (## Vistabella 1 [Vstb1], por ejemplo) con sus nombres en latín y número de ejemplares) y archivo de audio al que pertenecen (Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd) Seleccionando solo la fecha y número (2025-04-18 a las 09.01.44_880c65dd)
+Genera una tabla en base al archivo adjunto [![Vstb][20250418].md], agrupando las observaciones de aves por subtítulos (## Vistabella 1 [Vstb1], por ejemplo) con sus nombres en latín y número de ejemplares) y archivo de audio al que pertenecen (Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd) Seleccionando solo la fecha y número (2025-04-18 a las 09.01.44_880c65dd)
 [Bird Observation Data Table by Location](https://claude.ai/chat/01e53f54-4ca8-4713-9d6c-15280d3d4ec3)
 
 1. Con los datos del archivo [![Vstb][20250418].md], generar una tabla en markdown agrupando los datos de aves (los que llevan guion) por estaciones (señaladas con ##)  y archivo de audio del cual extraer fecha y código alfanumérico final
@@ -109,23 +109,20 @@ Audio de WhatsApp
 [Assigning Bird Sightings to Nearest Stations](https://claude.ai/chat/41a5545c-a651-4a43-badf-584ef8d432eb)
 
 1st: Change acentor alpino with común and replace the name in latin 
-2nd: Group species by positions and distribute both "section" and "repetition" species, but they do not add up, but rather are the average without decimals. 
+
+2nd: Group species by positions and distribute both "section" and "repetition" species, but they do not add up, but rather are the average without decimals.
+
 3td: In case of doubt assign randomize among the pos considerated 4th: Generate a new table with this conditions.
 
 12. Replicate this graphic in markdown file (imagen de una estación con sus columnas)
 
-| **Especie** | **Radio de detección**   |  
-|-------------|:----------------------:|--|
-|             | **<25 m**              | **>25 m** |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
-|             |                        |           |
+|   **Especie**     |**<25 m**|**>25 m**|
+|-------------------|---------|---------|
+|                   |         |         |
+|                   |         |         |
+|                   |         |         |
+|                   |         |         |
+|                   |         |         |
 
 **Hora de Inicio:** _______
 
