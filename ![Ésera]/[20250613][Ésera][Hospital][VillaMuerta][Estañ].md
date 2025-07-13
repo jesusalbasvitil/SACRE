@@ -441,3 +441,17 @@ E19,Turdus viscivorus,1,
 E19,Periparus ater,3,
 E20,Prunella modularis,2,10:50
 E20,Phoenicurus ochruros,1,10:50
+
+# 3. Assign vanished hour
+| Estación | Hora estimada |
+| -------- | ------------- |
+| E1       | 14:02         |
+| E2       | 13:55         |
+| E3       | 13:49         |
+| E4       | 13:42         |
+| E5       | 13:36         |
+| E6       | 13:29         |
+| E7       | 13:23         |
+| E8       | 13:16         |
+| E9       | 13:10         |
+| E10      | 13:04         |
