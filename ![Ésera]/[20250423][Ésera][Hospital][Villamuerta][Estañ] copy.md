@@ -20,6 +20,13 @@ Comentarios de audio en normal
 
 # [![20250423][Ésera][Hospital][VillaMuerta][Estañ]]()
 Brisa, despejado pero cubriendo
+## [Ésera14][E14][42,683104,0,610847][9:42]
+*Bifurcación hospital*
+- mirlo acuático
+- 3 pinzones
+- 2 mosquiteros
+
+Audio de WhatsApp 2025-04-23 a las 09.43.06_cec12754
 
 ## [E20][11:12]
 - 2 aviones roqueros
@@ -145,14 +152,6 @@ Audio de WhatsApp 2025-04-23 a las 12.52.28_8b597a6d
 
 Audio de WhatsApp 2025-04-23 a las 12.52.28_80c7a232
 
-## [Ésera14][E14][42,683104,0,610847][9:42]
-*Bifurcación hospital*
-- mirlo acuático
-- 3 pinzones
-- 2 mosquiteros
-
-Audio de WhatsApp 2025-04-23 a las 09.43.06_cec12754
-
 ## [E14][E15][12:50]
 *Altura Hospital*
 - Cernícalo
@@ -178,43 +177,45 @@ Audio de WhatsApp 2025-04-23 a las 13.31.45_7051aeaa
 Audio de WhatsApp 2025-04-23 a las 14.02.03_296e5b87
 Audio de WhatsApp 2025-04-23 a las 14.02.38_34648ac7
 
-## [E8][13:47]
-*Proximidades Bco. Literola ..No hay hayas. Pinar con abetos y abedules y en algún punto, masas puras de abetal y abedular*
-- 2 Garrapinos
-
-Audio de WhatsApp 2025-04-23 a las 14.03.20_c7f0ff8b
-
 
 ## [E7][13:56]
 - Capuchino [birdNET]
 - Garrapinos
 Audio de WhatsApp 2025-04-23 a las 14.02.59_0de8b516
 
+## [E8][13:47]
+*Proximidades Bco. Literola ..No hay hayas. Pinar con abetos y abedules y en algún punto, masas puras de abetal y abedular*
+- 2 Garrapinos
+
+Audio de WhatsApp 2025-04-23 a las 14.03.20_c7f0ff8b
 
 ## [E6][14:05]
 - Milano negro
 - petirrojo
 - Ratonero
-- roqueros
 
 Audio de WhatsApp 2025-04-23 a las 14.24.05_30d6ccff
 
 ## [E5][14:14]
 - 2 Garrapinos
 - 2 petirrojos
-- Pito real
 
 Audio de WhatsApp 2025-04-23 a las 14.24.05_81e47ab3
 
 ## [E4][14:23]
-*Anterior pito real ..y con el negro, 2 aviones roqueros*
 - 1 carbonero común
 - acentor
 - cernícalo
+
+Audio de WhatsApp 2025-04-23 a las 14.24.05_68021307
+
+
+
+*Anterior pito real ..y con el negro, 2 aviones roqueros*
 - 2 roqueros
 - 3 garrapinos 
 - pinzón
-Audio de WhatsApp 2025-04-23 a las 14.24.05_68021307
+
 Audio de WhatsApp 2025-04-23 a las 14.31.05_71b92d9e
 
 ## [E3][42,654152,0,574955][14:40]
