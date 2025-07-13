@@ -28,7 +28,7 @@ Brisa, despejado pero cubriendo
 
 Audio de WhatsApp 2025-04-23 a las 09.43.06_cec12754
 
-## [E20][]
+## [E20][11:12]
 - 2 aviones roqueros
 - 1 pinzón
 - 1 garrapinos
@@ -37,7 +37,7 @@ Audio de WhatsApp 2025-04-23 a las 09.43.06_cec12754
 
 Audio de WhatsApp 2025-04-23 a las 12.51.50_ab1c000b
 
-## [E19][]
+## [E19][11:52]
 - Escribano
 - cuco
 - 2 charlos
@@ -47,7 +47,7 @@ Audio de WhatsApp 2025-04-23 a las 12.51.50_ab1c000b
 Audio de WhatsApp 2025-04-23 a las 12.51.51_e08b2d53
 
 
-## [E18][]
+## [E18][12:06]
 Tramo
 - 6 bisbitas alpinos
 - 2 charlos
@@ -77,7 +77,7 @@ Audio de WhatsApp 2025-04-23 a las 12.51.53_f52cf206
 
 Audio de WhatsApp 2025-04-23 a las 12.51.55_8de0bd1b
 
-## [E18][]
+## [E18][12:06]
 *Chiringuito Besurta*
 
 - 2 charlos
@@ -85,7 +85,7 @@ Audio de WhatsApp 2025-04-23 a las 12.51.55_8de0bd1b
 
 Audio de WhatsApp 2025-04-23 a las 12.52.09_317e954c
 
-## [E17][]
+## [E17][12:15]
 Tramo Plan Estañ
 - 5 pinzones
 - 2 bisbitas
@@ -93,7 +93,7 @@ Tramo Plan Estañ
 
 Audio de WhatsApp 2025-04-23 a las 12.52.11_5a20352e
 
-## [E17][]
+## [E17][12:15]
 *Draba aizoides ..Tramo Villamuerta Soldanella*
 - Tizón
 - 2 cucos
@@ -103,7 +103,7 @@ Audio de WhatsApp 2025-04-23 a las 12.52.11_5a20352e
 
 Audio de WhatsApp 2025-04-23 a las 12.52.22_c456ee73
 
-## [E16][]
+## [E16][12:25]
 - 2 Bisbita
 - Petirrojo
 - Charlo
@@ -113,7 +113,7 @@ Audio de WhatsApp 2025-04-23 a las 12.52.22_c456ee73
 
 Audio de WhatsApp 2025-04-23 a las 12.52.26_6e839d64
 
-## [E16][]
+## [E16][12:25]
 - 4 charlos
 *charlo del aparcamiento ..un piquitierto ..al final del Plan Estañ*
 - 2 listados
@@ -125,7 +125,7 @@ Audio de WhatsApp 2025-04-23 a las 12.52.26_6e839d64
 
 Audio de WhatsApp 2025-04-23 a las 12.52.27_11b698d5
 
-## [E16][]
+## [E16][12:25]
 - Petirrojo
 - Mirlo
 - 2 serranos
@@ -135,7 +135,7 @@ Audio de WhatsApp 2025-04-23 a las 12.52.27_11b698d5
 Audio de WhatsApp 2025-04-23 a las 12.52.27_795430b0
 
 
-## [][]
+## [E15][12:35]
 Recuento
 - 6 pinzones
 - 1 mosquitero común
@@ -145,14 +145,14 @@ Recuento
 
 Audio de WhatsApp 2025-04-23 a las 12.52.28_8b597a6d
 
-## [][]
+## [E15][12:35]
 *2 roqueros villamuerta sup., 2 roqueros debajo besurta y 2 después besurta, 2 pícidos principio itinerario ida*
 - cuco
 - 2 garrapinos 
 
 Audio de WhatsApp 2025-04-23 a las 12.52.28_80c7a232
 
-## [E14][E15]
+## [E14][E15][12:50]
 *Altura Hospital*
 - Cernícalo
 - 5 chovas
