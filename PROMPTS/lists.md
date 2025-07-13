@@ -1,5 +1,11 @@
 ## 1. Take the markdown file and assign latin name each common name using this const:
 const birdNamesSpanishToLatin = {
+  'avión común':'Delichon urbicum'
+  'montesino':'Emberiza cia'
+  'piquirroja':'Pyrrhocorax pyrrhocorax'
+  'lavandera blanca': 'Motacilla alba'
+  'verdecillos': 'Serinus serinus'
+  'trepador': 'Sitta europaea'
   'mirlo acuático': 'Cinclus cinclus',
   'pinzón': 'Fringilla coelebs',
   'pinzones': 'Fringilla coelebs',
@@ -10,8 +16,8 @@ const birdNamesSpanishToLatin = {
   'aviones roqueros': 'Ptyonoprogne rupestris',
   'roquero': 'Ptyonoprogne rupestris',
   'roqueros': 'Ptyonoprogne rupestris',
-  'garrapinos': 'Sitta europaea',
-  'garrapino': 'Sitta europaea',
+  'garrapinos': 'Periparus ater',
+  'garrapino': 'Periparus ater',
   'arrendajo': 'Garrulus glandarius',
   'arrendajos': 'Garrulus glandarius',
   'escribano': 'Emberiza cia',
