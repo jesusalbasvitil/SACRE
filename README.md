@@ -47,7 +47,7 @@ Comentarios de audio en normal
 -->
 ### Subtítulo 2 ## [Trrl17][41,044174,-1,578581][11:48]
 
-### Tipologías
+### ESTILOS
 - () comentarios a posteriori / Comentarios de audio en normal
 
 - [audio] Buscar en BirdNET archivo día y hora
@@ -58,6 +58,10 @@ Comentarios de audio en normal
 
 - ## [fnf6][40,919215,-1,096488][9:14] `confirmado` 
 Comprobadas coordenadas con GE porque había duda
+
+- Tramo, recorrido sin parar por estaciones
+
+- Repaso, repetición del punto. Hay que hacer una media con el anterior registro
 
 
 ## AUDIOS
@@ -84,7 +88,7 @@ Audio de WhatsApp
 ## [ISSUES](https://github.com/issues)
 
 ## Prompts/Script
-Genera una tabla en base al archivo adjunto [![Vstb][20250418].md], agrupando las observaciones de aves por subtítulos (## Vistabella 1 [Vstb1], por ejemplo) con sus nombres en latín y número de ejemplares) y archivo de audio al que pertenecen (Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd) Seleccionando solo la fecha y número (2025-04-18 a las 09.01.44_880c65dd)
+Genera una tabla en base al archivo adjunto [![Vstb][20250418].md], agrupando las observaciones de aves por subtítulos (## Vistabella 1 [Vstb1], por ejemplo) con sus nombres en latín y número de ejemplares y archivo de audio al que pertenecen (Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd) Seleccionando solo la fecha y número (2025-04-18 a las 09.01.44_880c65dd)
 [Bird Observation Data Table by Location](https://claude.ai/chat/01e53f54-4ca8-4713-9d6c-15280d3d4ec3)
 
 1. Con los datos del archivo [![Vstb][20250418].md], generar una tabla en markdown agrupando los datos de aves (los que llevan guion) por estaciones (señaladas con ##)  y archivo de audio del cual extraer fecha y código alfanumérico final
