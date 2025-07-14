@@ -78,14 +78,14 @@ Audio de WhatsApp 2025-06-13 a las 10.50.25_4231d9b4
 Audio de WhatsApp 2025-06-13 a las 11.59.51_11881b08
 
 
-## [E19][42,677787,0,657070][]
+## [E19][42,677787,0,657070][11:05]
 - petirrojo
 - charlo
 - 3 garrapinos
 
 Audio de WhatsApp 2025-06-13 a las 12.03.17_c2ceb680
 
-## [E18][E17][]
+## [E18][E17][11:21]
 - petirrojo
 - 2 pinzones
 - 1 garrapinos
@@ -94,7 +94,7 @@ Audio de WhatsApp 2025-06-13 a las 12.03.17_c2ceb680
 
 Audio de WhatsApp 2025-06-13 a las 12.04.59_272f66a3
 
-## [E16][]
+## [E16][11:53]
 - 2 reyezuelos
 - 2 capuchinos
 - 2 pinzones
@@ -166,12 +166,12 @@ Audio de WhatsApp 2025-06-13 a las 13.07.39_f333f798
 Audio de WhatsApp 2025-06-13 a las 13.08.32_ed4573ec
 
 
-## [E4][E5][]
+## [E4][E5][13:42]
 - 2 petirrojos
 
 Audio de WhatsApp 2025-06-13 a las 13.42.02_e568b207
 
-## [E9bis][]
+## [E9bis][13:10]
 Barranco Literola
 - garrapinos
 - petirrojo
@@ -181,7 +181,7 @@ Audio de WhatsApp 2025-06-13 a las 13.42.03_720f7699
 Audio de WhatsApp 2025-06-13 a las 13.42.03_ee62ce7f
 
 
-## [E6][]
+## [E6][13:29]
 - 2 Mosquitero
 - 3 pinzones
 
@@ -189,14 +189,14 @@ Audio de WhatsApp 2025-06-13 a las 13.42.04_62c4872e
 
 ~~Audio de WhatsApp 2025-06-13 a las 13.42.04_b088d4f1 [birdNET]~~
 
-## [E3][][14:12]
+## [E3][13:49]
 - reyezuelo listado
 - petirrojo
 - zorzal charlo
 
 Audio de WhatsApp 2025-06-13 a las 14.12.26_b0d5ee78
 
-## [E2][42,641804,0,562230][]
+## [E2][42,641804,0,562230][13:55]
 *A la vista de Senarta*
 - 2 pinzones
 - avión común
@@ -211,7 +211,7 @@ Audio de WhatsApp 2025-06-13 a las 14.12.44_88182dbc
 
 
 Audio de WhatsApp 2025-06-13 a las 14.12.47_2f9ab837
-
+----
 # 1. [20250613] SORTED
  [Bird Observations Sorted by E-Number](https://claude.ai/public/artifacts/149bb00e-4ca3-4fae-8bed-2a1e10239cc0)
 
@@ -455,3 +455,13 @@ E20,Phoenicurus ochruros,1,10:50
 | E8       | 13:16         |
 | E9       | 13:10         |
 | E10      | 13:04         |
+
+
+| Punto | Hora     |
+| ----- | -------- |
+| 19    | 11:05:48 |
+| 18    | 11:21:36 |
+| 17    | 11:37:24 |
+| 16    | 11:53:12 |
+| 15    | 12:09:00 |
+
