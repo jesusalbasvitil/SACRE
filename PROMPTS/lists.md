@@ -125,7 +125,26 @@
   'águila imperial': 'Aquila adalberti',
   'codorniz': 'Coturnix coturnix',
   'totovías': 'Lullula arborea'
+  'abejaruco': 'Merops apiaster' 
+  'acentor': 'Prunella modularis'
+  'carbonero común': 'Parus major' 
+  'mosquitero': 'Phylloscopus sp.' 
+  'roqueros': 'Ptyonoprogne rupestris' 
+  'aviones roqueros': 'Ptyonoprogne rupestris'
+  'tizón': 'Phoenicurus ochruros' 
+  'papamoscas grises': 'Muscicapa striata' 
+  'roquero solitario': 'Monticola solitarius'
+  'carricero común': 'Acrocephalus scirpaceus' 
+  'collalba rubia': 'Oenanthe hispanica' 
+  'curruca mirlona': 'Sylvia hortensis'
+  'pito real': 'Picus sharpei'
+  'perdiz': 'Alectoris rufa' 
+  'milanos negros': ' Milvus migrans'
+  'estorninos': 'Sturnus vulgaris'
+  'bravías': 'Columbia livia' 
+
 };
+
 
 ## 2. Create a CSV file  with 4 columns "Estación", "Especie" (in latin), "number of birds" and "hour", using  this subtitle like example ## [E18][12:06]
 
