@@ -94,7 +94,7 @@ Audio de WhatsApp
 ---- 
 2025-06-15 a las 07.13.00_1c8dc2fb
 
-## PO08 C/ Alicante
+## PO08 [Trr] C/ Alicante
 - 20 vencejos
 - 2 livia
 - 1 estornino
@@ -301,7 +301,7 @@ Audio de WhatsApp
 2025-06-15 a las 10.16.13_a89fdba6
 
 
-## PO04 
+## PO04 [Csb]
 - Torcaz
 - Verdecillo
 - Mirlo
@@ -323,17 +323,18 @@ Audio de WhatsApp
 
 
 
-## 
+## PO08 [Csb]
 - 4 gorriones
 - 2 charlos
 - 1 estornino
+- Torcáz
 
 
 Audio de WhatsApp 
 ----
 2025-06-15 a las 10.25.41_42ecd13f
 
-
+Halcón
 
 Audio de WhatsApp 
 ----
