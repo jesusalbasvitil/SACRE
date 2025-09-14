@@ -23,8 +23,6 @@ Val cultivada junto con almedrales y viñedos alternando con monte de suelo esqu
 - 1 golondrina
 - 2 palomas bravias
 
-
-
 Audio de WhatsApp 
 ----
 2025-06-15 a las 06.50.08_079376af
