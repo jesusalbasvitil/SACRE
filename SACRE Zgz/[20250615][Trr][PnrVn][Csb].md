@@ -332,8 +332,97 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.25.41_42ecd13f
 
-Halcón
+- Halcón con presa, dirección N
+
 
 Audio de WhatsApp 
 ----
 2025-06-15 a las 10.27.17_e2a32f83
+
+
+- 2 torcaces
+- 2 urracas
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.31.04_4661b7eb
+
+"tramo del 8 al 10"
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.34.25_60a6833b
+
+
+- 4 vencejos
+- 4 gorriones
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.33.46_dead6340
+
+- 12 gorriones
+- 4 estorninos
+- 3 torcaces
+- 1 avión común
+- 2 verdecillos
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.39.25_8ed6a1e6
+
+"Cinco"
+
+- 2 golondrinas
+- 4 gorriones
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.53.53_355c3773
+
+
+- 4 gorriones
+- 1 golondrina
+- 1 vencejo
+- 15 aviones
+- 2 verdecillos
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.47.00_d347d507
+
+
+"Siete"
+- 4 gorriones
+- 4 avion
+- 4 golondrinas
+- 3 patos
+- 1 corneja
+- 2 torcaces
+Audio de WhatsApp 
+----
+2025-06-15 a las 10.58.04_451b7c27
+
+"añadir.."
+- verdecillo
+- urraca
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 11.06.43_4140fd18
+
+
+- 2 bastardos
+- 2 gorriones
+- 4 aviones
+- 1 golondrina
+Audio de WhatsApp 
+----
+2025-06-15 a las 11.06.11_a32aa361
+
+"Añadir"
+- paloma depredada coincidente con Pinares Venecia junto al legionario y otro en Cabezo Buenavista (otros puntos SACRE-Zgz) Abubilla y gorrion molinero y trayecto canal herrerillo y a mitad 2 agateadores, 6 vencejos (Cabezo)
+
+Audio de WhatsApp 
+----
+2025-06-15 a las 12.15.54_7b9ada87
