@@ -1,0 +1,227 @@
+## "Pinares Venecia" [Trr][PO05] Parque junto petronor
+- 1 reyezuelo listado?
+- 2 gorriones
+- 4 torcaz
+- 2 verdecillos
+- 3 Columba livia
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.26.45_8a8de875
+
+
+## PO05
+
+- 6 torcaces
+- 1 turca
+- gorrión
+----
+Audio de WhatsApp 2025-05-20 a las 07.28.38_6860c78d
+
+## PO06 St. Venecia 
+- Verderón
+- Estonino
+- Mosquitero
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.30.23_de2c1a60
+
+# PO04 Esq. Mercadona con pinares
+
+- 5 torcaces
+- 2 estorninos
+- 1 verderón
+- 2 gorriones
+----
+Audio de WhatsApp 2025-05-20 a las 07.34.09_f18c540e
+
+## PO02 ámbito 3-4 junto 3er cinturón
+- 3 torcaces 
+- 1 verdecillo
+----
+Audio de WhatsApp 2025-05-20 a las 07.39.22_73cd1137
+
+## PO02 [PnrVn] Canal Imperial con crta. parque atracciones
+- Gorrión
+- Herrerillo
+- 2 Estornino 
+- 4 vencejos 
+- 3 torcaz
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.45.51_f4dd2090
+
+## PO05 [PnrVn] Canal Imperial
+- 5 verdecillos
+- 1 verderón
+- 3-4 gorriones
+- 1 carricero tordal 
+- Ruiseñor bastardo
+- Milano negro
+- 2 charlos
+- Mirlo
+- 2 Estornino
+- Oropéndola
+- Verdecillo
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.52.21_9e73964f
+
+## PO04 antes parque Atracciones "Torrero" [PnrVn]
+
+- 1 urraca
+- 2 jilgueros
+- 6 verdecillos
+- 1 golondrina
+----
+Audio de WhatsApp 2025-05-20 a las 08.00.23_59697daf
+
+## PO03 "Torrero" [PnrVn]
+- Agateador comun
+- Charlo
+- 2 pinzones
+- 4 verdecillos (Parque Atracciones)
+- 4 gorriones
+- 2 torcaces
+- urraca
+- gorrión
+- 2 agateadores
+----
+Audio de WhatsApp 2025-05-20 a las 08.09.56_9a2c453f
+
+
+## PO01 "Pinares Venecia" [Trr]
+- 6 torcaces
+- 2 golondrina
+- 1 estornino
+- urraca
+
+
+----
+Audio de WhatsApp 2025-05-20 a las 08.18.41_ec406313
+
+
+## PO010 "Pinares Venecia" [Trr]
+- turca
+- 2 gorriones
+- verdecillo
+- bastardo
+- 2 torcaces (Calle Jaen)
+----
+Audio de WhatsApp 2025-05-20 a las 08.21.51_d9e0cb4c
+
+
+## PO08 Calle Alicante
+- 6 vencejos
+- 4 aviones
+
+----
+Audio de WhatsApp 2025-05-20 a las 08.24.38_089946ec
+
+
+## PO07 Plaza Canteras
+`inventario abierto`
+- verdecillos
+- 2 estorninos
+- 2 gorriones
+----
+Audio de WhatsApp 2025-05-20 a las 08.29.46_31c08d2b
+
+----
+[Same process with this observations: order, latin name and distance (<>25) from js file added behind and list in CSV format](https://chatgpt.com/share/68c6e254-fd5c-800d-9f32-63bf3812f019)
+
+Posición,Nombre común,Nombre latin,Distancia,Número
+PO05,Reyezuelo listado,Regulus ignicapilla,<25,1
+PO05,Gorrión,Passer domesticus,<25,2
+PO05,Torcaz,Columba palumbus,>25,4
+PO05,Verdecillo,Serinus serinus,<25,2
+PO05,Paloma bravía,Columba livia,>25,3
+PO05,Torcaz,Columba palumbus,>25,6
+PO05,Tórtola turca,Streptopelia decaocto,<25,1
+PO05,Gorrión,Passer domesticus,<25,1
+PO06,Verderón,Chloris chloris,<25,1
+PO06,Estornino,Sturnus vulgaris,>25,1
+PO06,Mosquitero,Phylloscopus collybita,<25,1
+PO04,Torcaz,Columba palumbus,>25,5
+PO04,Estornino,Sturnus vulgaris,>25,2
+PO04,Verderón,Chloris chloris,<25,1
+PO04,Gorrión,Passer domesticus,<25,2
+PO02,Torcaz,Columba palumbus,>25,3
+PO02,Verdecillo,Serinus serinus,<25,1
+PO02,Gorrión,Passer domesticus,<25,1
+PO02,Herrerillo,Cyanistes caeruleus,<25,1
+PO02,Estornino,Sturnus vulgaris,>25,2
+PO02,Vencejo,Apus apus,>25,4
+PO02,Torcaz,Columba palumbus,>25,3
+PO05,Verdecillo,Serinus serinus,<25,5
+PO05,Verderón,Chloris chloris,<25,1
+PO05,Gorrión,Passer domesticus,<25,3
+PO05,Carricero tordal,Acrocephalus arundinaceus,<25,1
+PO05,Ruiseñor bastardo,Cettia cetti,<25,1
+PO05,Milano negro,Milvus migrans,>25,1
+PO05,Estornino,Sturnus vulgaris,>25,2
+PO05,Oropéndola,Oriolus oriolus,>25,1
+PO05,Charlo,Turdus viscivorus,>25,2
+PO05,Mirlo,Turdus merula,<25,1
+PO04,Urraca,Pica pica,<25,1
+PO04,Jilguero,Carduelis carduelis,<25,2
+PO04,Verdecillo,Serinus serinus,<25,6
+PO04,Golondrina,Hirundo rustica,>25,1
+PO03,Agateador común,Certhia brachydactyla,<25,1
+PO03,Charlo,Turdus viscivorus,>25,1
+PO03,Pinzón,Fringilla coelebs,<25,2
+PO03,Verdecillo,Serinus serinus,<25,4
+PO03,Gorrión,Passer domesticus,<25,4
+PO03,Torcaz,Columba palumbus,>25,2
+PO03,Urraca,Pica pica,<25,1
+PO03,Gorrión,Passer domesticus,<25,1
+PO03,Agateador común,Certhia brachydactyla,<25,2
+PO01,Torcaz,Columba palumbus,>25,6
+PO01,Golondrina,Hirundo rustica,>25,2
+PO01,Estornino,Sturnus vulgaris,>25,1
+PO01,Urraca,Pica pica,<25,1
+PO10,Tórtola turca,Streptopelia decaocto,<25,1
+PO10,Gorrión,Passer domesticus,<25,2
+PO10,Verdecillo,Serinus serinus,<25,1
+PO10,Ruiseñor bastardo,Cettia cetti,<25,1
+PO10,Torcaz,Columba palumbus,>25,2
+PO08,Vencejo,Apus apus,>25,6
+PO08,Avión común,Delichon urbicum,>25,4
+PO07,Verdecillo,Serinus serinus,<25,1
+PO07,Estornino,Sturnus vulgaris,>25,2
+PO07,Gorrión,Passer domesticus,<25,2
+
+----
+[I miss the position 1 and 3. I need to rebilds it with the observations from PO02 and PO04 with random values between](https://chatgpt.com/share/68c6e254-fd5c-800d-9f32-63bf3812f019)
+
+Posición,Nombre común,Nombre latino,Distancia,Número
+PO01,Torcaz,Columba palumbus,>25,3
+PO01,Verdecillo,Serinus serinus,<25,2
+PO01,Gorrión,Passer domesticus,<25,1
+PO01,Herrerillo,Cyanistes caeruleus,<25,1
+PO01,Estornino,Sturnus vulgaris,>25,1
+PO03,Torcaz,Columba palumbus,>25,4
+PO03,Verdecillo,Serinus serinus,<25,3
+PO03,Gorrión,Passer domesticus,<25,2
+PO03,Vencejo,Apus apus,>25,4
+PO03,Avión común,Delichon urbicum,>25,1
+PO04,Torcaz,Columba palumbus,>25,4
+PO04,Verdecillo,Serinus serinus,<25,3
+PO04,Gorrión,Passer domesticus,<25,2
+PO04,Golondrina,Hirundo rustica,>25,1
+PO04,Verderón,Chloris chloris,<25,1
+PO04,Estornino,Sturnus vulgaris,>25,1
+----
+[For the 9 position missed..](https://chatgpt.com/share/68c6e254-fd5c-800d-9f32-63bf3812f019) take this observations:
+
+Posición,Nombre común,Nombre latin,Valor,Número
+PO09,Torcaz,Columba palumbus,>25,1
+PO09,Gorriones,Passer domesticus,<25,2
+PO09,Vencejos,Apus apus,>25,3
+
+And mixed with this obs.:
+
+PO07	Verdecillo	Serinus serinus	1	<25
+PO07	Estornino pinto	Sturnus vulgaris	2	<25
+PO07	Gorrión común	Passer domesticus	2	<25
+
+And take the maximum of us
