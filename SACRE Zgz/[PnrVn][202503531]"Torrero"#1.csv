@@ -162,22 +162,6 @@ Audio de WhatsApp
 2025-05-31 a las 10.32.27_b0451d4e
 
 Posición,Nombre común,Nombre latino,Valor,Número
-PO02,Gorrión,Passer domesticus,<25,1
-PO02,Herrerillo,Cyanistes caeruleus,<25,1
-PO02,Estornino,Sturnus vulgaris,>25,2
-PO02,Vencejo,Apus apus,>25,4
-PO02,Torcaz,Columba palumbus,>25,3
-PO05,Verdecillo,Serinus serinus,<25,5
-PO05,Verderón,Chloris chloris,<25,1
-PO05,Gorrión,Passer domesticus,<25,4
-PO05,Carricero tordal,Acrocephalus arundinaceus,<25,1
-PO05,Ruiseñor bastardo,Cettia cetti,>25,1
-PO05,Milano negro,Milvus migrans,>25,1
-PO05,Charlo,Turdus viscivorus,>25,2
-PO05,Mirlo,Turdus merula,<25,1
-PO05,Estornino,Sturnus vulgaris,>25,2
-PO05,Oropéndola,Oriolus oriolus,>25,1
-PO05,Verdecillo,Serinus serinus,<25,1
 PO01,Tórtola turca,Streptopelia decaocto,<25,1
 PO01,Golondrina,Hirundo rustica,>25,1
 PO01,Carbonero,Parus major,<25,1
@@ -189,8 +173,11 @@ PO01,Cigüeña,Ciconia ciconia,<25,2
 PO01,Torcaz,Columba palumbus,>25,4
 PO01,Vencejo,Apus apus,>25,2
 PO01,Gorrión común,Passer domesticus,<25,2
-----
-Posición,Nombre común,Nombre latino,Valor,Número
+PO02,Gorrión,Passer domesticus,<25,1
+PO02,Herrerillo,Cyanistes caeruleus,<25,1
+PO02,Estornino,Sturnus vulgaris,>25,2
+PO02,Vencejo,Apus apus,>25,4
+PO02,Torcaz,Columba palumbus,>25,3
 PO03,Torcaz,Columba palumbus,>25,2
 PO03,Verdecillo,Serinus serinus,<25,6
 PO03,Jilguero,Carduelis carduelis,>25,1
@@ -201,6 +188,17 @@ PO03,Pato,Anas platyrhynchos,>25,2
 PO04,Torcaz,Columba palumbus,>25,1
 PO04,Verdecillo,Serinus serinus,<25,1
 PO04,Mirlo,Turdus merula,<25,1
+PO05,Verdecillo,Serinus serinus,<25,5
+PO05,Verderón,Chloris chloris,<25,1
+PO05,Gorrión,Passer domesticus,<25,4
+PO05,Carricero tordal,Acrocephalus arundinaceus,<25,1
+PO05,Ruiseñor bastardo,Cettia cetti,>25,1
+PO05,Milano negro,Milvus migrans,>25,1
+PO05,Charlo,Turdus viscivorus,>25,2
+PO05,Mirlo,Turdus merula,<25,1
+PO05,Estornino,Sturnus vulgaris,>25,2
+PO05,Oropéndola,Oriolus oriolus,>25,1
+PO05,Verdecillo,Serinus serinus,<25,1
 PO06,Oropéndola,Oriolus oriolus,>25,2
 PO06,Cabecinegra,Sylvia melanocephala,<25,1
 PO06,Jilguero,Carduelis carduelis,>25,4

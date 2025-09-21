@@ -9,16 +9,15 @@
 [No. Primero quiero que repartas las citas entre PO09-PO05-PO06 y luego genera un CSV sólo de las 3 posiciones](https://chatgpt.com/share/68c6e254-fd5c-800d-9f32-63bf3812f019)
 
 Posición,Nombre común,Nombre latin,Valor,Número
-PO09,Torcaz,Columba palumbus,>25,1
+PO05,Golondrina,Hirundo rustica,>25,1
 PO05,Estorninos,Sturnus vulgaris,>25,7
-PO06,Estorninos,Sturnus vulgaris,>25,5
-PO09,Gorriones,Passer domesticus,<25,2
 PO05,Gorriones,Passer domesticus,<25,2
 PO06,Vencejos,Apus apus,>25,3
-PO09,Vencejos,Apus apus,>25,3
-PO05,Golondrina,Hirundo rustica,>25,1
+PO06,Estorninos,Sturnus vulgaris,>25,5
 PO06,Palomas bravías,Columbia livia,>25,2
-
+PO09,Torcaz,Columba palumbus,>25,1
+PO09,Vencejos,Apus apus,>25,3
+PO09,Gorriones,Passer domesticus,<25,2
 
 Audio de WhatsApp 
 ----
@@ -94,7 +93,6 @@ PO01,Estornino pinto,Sturnus vulgaris,2,<25
 PO01,Paloma bravía,Columba livia,14,>25
 PO01,Paloma torcaz,Columba palumbus,14,>25
 PO01,Tórtola turca,Streptopelia decaocto,6,<25
-
 PO02,Estornino pinto,Sturnus vulgaris,3,<25
 PO02,Gorrión común,Passer domesticus,4,<25
 PO02,Jilguero europeo,Carduelis carduelis,1,<25
@@ -104,7 +102,6 @@ PO02,Verderón común,Chloris chloris,1,<25
 PO02,Pinzón vulgar,Fringilla coelebs,1,<25
 PO02,Reyezuelo listado,Regulus ignicapillus,2,<25
 PO02,Pardillo común,Linaria cannabina,3,<25
-
 PO03,Golondrina común,Hirundo rustica,1,>25
 PO03,Gorrión común,Passer domesticus,2,<25
 PO03,Jilguero europeo,Carduelis carduelis,1,<25
@@ -114,9 +111,30 @@ PO03,Urraca común,Pica pica,3,<25
 PO03,Verdecillo,Serinus serinus,1,<25
 PO03,Verderón común,Chloris chloris,4,<25
 PO03,Gaviota patiamarilla,Larus michahellis,1,<25
-
 PO04,Vencejo común,Apus apus,16,>25
 PO04,Milano negro,Milvus migrans,1,>25
+PO05,Golondrina,Hirundo rustica,>25,1
+PO05,Estorninos,Sturnus vulgaris,>25,7
+PO05,Gorriones,Passer domesticus,<25,2
+PO06,Vencejos,Apus apus,>25,3
+PO06,Estorninos,Sturnus vulgaris,>25,5
+PO06,Palomas bravías,Columbia livia,>25,2
+PO07,Verdecillo,Serinus serinus,1,<25
+PO07,Estornino pinto,Sturnus vulgaris,2,<25
+PO07,Gorrión común,Passer domesticus,2,<25
+PO08,Vencejo común,Apus apus,6,>25
+PO08,Paloma bravía,Columba livia,2,>25
+PO08,Estornino pinto,Sturnus vulgaris,1,<25
+PO08,Avión común,Delichon urbicum,4,>25
+PO09,Torcaz,Columba palumbus,>25,1
+PO09,Vencejos,Apus apus,>25,3
+PO09,Gorriones,Passer domesticus,<25,2
+PO10,Tórtola turca,Streptopelia decaocto,1,<25
+PO10,Gorrión común,Passer domesticus,2,<25
+PO10,Verdecillo,Serinus serinus,1,<25
+PO10,Ruiseñor bastardo,Cettia cetti,1,>25
+PO10,Paloma torcaz,Columba palumbus,2,>25
+
 
 
 ## PO08 [Trr] C/ Alicante 
@@ -152,24 +170,24 @@ Audio de WhatsApp 2025-05-20 a las 08.24.38_089946ec
 Audio de WhatsApp 2025-05-20 a las 08.29.46_31c08d2b-->
 PO07 – Plaza Canteras
 Posición	Nombre común	Nombre latin	Número	Valor
-PO07	Verdecillo	Serinus serinus	1	<25
-PO07	Estornino pinto	Sturnus vulgaris	2	<25
-PO07	Gorrión común	Passer domesticus	2	<25
+PO07,Verdecillo,Serinus serinus,1,<25
+PO07,Estornino pinto,Sturnus vulgaris,2,<25
+PO07,Gorrión común,Passer domesticus,2,<25
 
 PO08 – Calle Alicante
 Posición	Nombre común	Nombre latin	Número	Valor
-PO08	Vencejo común	Apus apus	6	>25
-PO08	Paloma bravía	Columba livia	2	>25
-PO08	Estornino pinto	Sturnus vulgaris	1	<25
-PO08	Avión común	Delichon urbicum	4	>25
+PO08,Vencejo común,Apus apus,6,>25
+PO08,Paloma bravía,Columba livia,2,>25
+PO08,Estornino pinto,Sturnus vulgaris,1,<25
+PO08,Avión común,Delichon urbicum,4,>25
 
 PO10 – Pinares Venecia
 Posición	Nombre común	Nombre latin	Número	Valor
-PO10	Tórtola turca	Streptopelia decaocto	1	<25
-PO10	Gorrión común	Passer domesticus	2	<25
-PO10	Verdecillo	Serinus serinus	1	<25
-PO10	Ruiseñor bastardo	Cettia cetti	1	>25
-PO10	Paloma torcaz	Columba palumbus	2	>25
+PO10,Tórtola turca,Streptopelia decaocto	1	<25
+PO10,Gorrión común,Passer domesticus	2	<25
+PO10,Verdecillo,Serinus serinus	1	<25
+PO10,Ruiseñor bastardo,Cettia cetti	1	>25
+PO10,Paloma torcaz,Columba palumbus	2	>25
 ----
 Posición,Nombre común,Nombre latin,Número,Valor
 PO07,Verdecillo,Serinus serinus,1,<25
