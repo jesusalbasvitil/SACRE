@@ -1,0 +1,257 @@
+[PnrVn][202503531]
+<!--MODELO
+# [#[20250418] [Vstb]](https://drive.google.com/drive/folders/1QmPpMglHaVGhmEvUFD5_p6lZT1EqGVr4?usp=drive_link)
+
+## Vistabella 1 [Vstb1]
+## Casablanca 1 [Csbl1][PO01]
+
+- 3 pardillos
+- 2 rabilargas
+- 1 alondra
+- 2 trigueros
+- 1 ruiseñor
+----
+`Audio de WhatsApp 2025-04-18 a las 09.01.44_880c65dd.waptt`
+
+Val cultivada junto con almedrales y viñedos alternando con monte de suelo esquelético de caliza con ontina D, aliaga C, y retama A, y rosales A, en zonas más húmedas, astrágalos, jarilla-->
+
+
+
+## Pinares Venecia 10 [PnrVn10][PO10]
+- 3 alondras
+- 5 torcaces
+- 8 estorinos 
+- 1 oropéndola
+- agateador
+- grajilla
+
+----
+`Audio de WhatsApp 2025-05-31 a las 07.01.52_d7bebc37`
+
+## PnrVn 10 [PO10]
+- 5 urracas
+- 2 pinzones
+- 1 agateador
+- alondra
+
+----
+`Audio de WhatsApp 2025-05-31 a las 07.04.01_68cf4237`
+
+## PnrVn 6 [PO06]
+- milano negro
+- 2 jilgueros
+- 4 aviones 
+- 2 verdecillos
+- 1 alondra
+- molinero
+----
+`Audio de WhatsApp 2025-05-31 a las 07.07.54_1c33d5b8`
+
+
+## PnrVn 7 [PO07] Cauce hormigón Bco. Muerte
+- 3 verdecillos
+- 2 pinzones 
+- 1 agateador
+- 1 listado
+- 2 urraca
+- 1 pinzón
+- 2 jilgueros
+- 3 vencejos
+
+
+----
+`Audio de WhatsApp 2025-05-31 a las 07.22.18_1dfc0e69`
+
+## PnrVn 8 [PO08] Final Pinares
+- 3 vencejos
+- 2 verdecillos
+- milano negro
+- jilguero
+- agateador
+----
+`Audio de WhatsApp 2025-05-31 a las 07.13.41_204e2739`
+
+## PnrVn 9 [PO09] Tiro-3er Cinturón
+
+- 2 charlos
+- 1 torcaz
+- milano negro
+
+----
+`Audio de WhatsApp 2025-05-31 a las 07.25.50_3aeae05a`
+
+- Pinzón
+- 3 charlos
+- sp
+- 2 torcaces
+- gorrión común
+- carbonero
+- 4 gorriones
+- 4 estorninos
+- 2 torcaces
+----
+`Audio de WhatsApp 2025-05-31 a las 07.33.46_3ca492a0 Audio de WhatsApp 2025-05-31 a las 07.36.17_3468a8cb`
+
+## PO04 antes parque Atracciones "Torrero" [PnrVn]
+
+- 1 urraca
+- 2 jilgueros
+- 6 verdecillos
+- 1 golondrina
+----
+Audio de WhatsApp 2025-05-20 a las 08.00.23_59697daf
+
+## PO03 "Torrero" [PnrVn]
+- Agateador comun
+- Charlo
+- 2 pinzones
+- 4 verdecillos (Parque Atracciones)
+- 4 gorriones
+- 2 torcaces
+- urraca
+- gorrión
+- 2 agateadores
+----
+Audio de WhatsApp 2025-05-20 a las 08.09.56_9a2c453f
+
+## PO02 [PnrVn] Canal Imperial con crta. parque atracciones
+- Gorrión
+- Herrerillo
+- 2 Estornino 
+- 4 vencejos 
+- 3 torcaz
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.45.51_f4dd2090
+
+## PO05 [PnrVn] Canal Imperial
+- 5 verdecillos
+- 1 verderón
+- 3-4 gorriones
+- 1 carricero tordal 
+- Ruiseñor bastardo
+- Milano negro
+- 2 charlos
+- Mirlo
+- 2 Estornino
+- Oropéndola
+- Verdecillo
+
+----
+Audio de WhatsApp 2025-05-20 a las 07.52.21_9e73964f
+
+## PO01 [PnrVn][41,622829,-0,910039] St. Casablanca
+- Tórtola turca
+- golondrina
+- carbonero
+- milano negro
+- 2 verdecillos
+- 6 aviones
+- 1 abejaruco
+- 2 cigueñas
+- 2 torcaces
+- 1 vencejo
+- 1 gorrión
+- 2 torcaces
+- 1 vencejo
+- 1 gorrión común
+
+Audio de WhatsApp 
+----
+2025-05-31 a las 10.31.45_7ac1b5d8
+2025-05-31 a las 10.32.27_b0451d4e
+
+Posición,Nombre común,Nombre latino,Valor,Número
+PO02,Gorrión,Passer domesticus,<25,1
+PO02,Herrerillo,Cyanistes caeruleus,<25,1
+PO02,Estornino,Sturnus vulgaris,>25,2
+PO02,Vencejo,Apus apus,>25,4
+PO02,Torcaz,Columba palumbus,>25,3
+PO05,Verdecillo,Serinus serinus,<25,5
+PO05,Verderón,Chloris chloris,<25,1
+PO05,Gorrión,Passer domesticus,<25,4
+PO05,Carricero tordal,Acrocephalus arundinaceus,<25,1
+PO05,Ruiseñor bastardo,Cettia cetti,>25,1
+PO05,Milano negro,Milvus migrans,>25,1
+PO05,Charlo,Turdus viscivorus,>25,2
+PO05,Mirlo,Turdus merula,<25,1
+PO05,Estornino,Sturnus vulgaris,>25,2
+PO05,Oropéndola,Oriolus oriolus,>25,1
+PO05,Verdecillo,Serinus serinus,<25,1
+PO01,Tórtola turca,Streptopelia decaocto,<25,1
+PO01,Golondrina,Hirundo rustica,>25,1
+PO01,Carbonero,Parus major,<25,1
+PO01,Milano negro,Milvus migrans,>25,1
+PO01,Verdecillo,Serinus serinus,<25,2
+PO01,Avión común,Delichon urbicum,>25,6
+PO01,Abejaruco,Merops apiaster,>25,1
+PO01,Cigüeña,Ciconia ciconia,<25,2
+PO01,Torcaz,Columba palumbus,>25,4
+PO01,Vencejo,Apus apus,>25,2
+PO01,Gorrión común,Passer domesticus,<25,2
+----
+Posición,Nombre común,Nombre latino,Valor,Número
+PO03,Torcaz,Columba palumbus,>25,2
+PO03,Verdecillo,Serinus serinus,<25,6
+PO03,Jilguero,Carduelis carduelis,>25,1
+PO03,Avión común,Delichon urbicum,>25,8
+PO03,Rapaz,Accipitridae sp.,>25,1
+PO03,Mirlo,Turdus merula,<25,1
+PO03,Pato,Anas platyrhynchos,>25,2
+PO04,Torcaz,Columba palumbus,>25,1
+PO04,Verdecillo,Serinus serinus,<25,1
+PO04,Mirlo,Turdus merula,<25,1
+PO06,Oropéndola,Oriolus oriolus,>25,2
+PO06,Cabecinegra,Sylvia melanocephala,<25,1
+PO06,Jilguero,Carduelis carduelis,>25,4
+PO06,Pardillo,Linaria cannabina,<25,1
+PO06,Estornino,Sturnus vulgaris,>25,5
+PO06,Milano negro,Milvus migrans,>25,1
+PO07,Verdecillo,Serinus serinus,<25,6
+PO07,Molinero,Passer montanus,<25,1
+PO07,Pardillo,Linaria cannabina,<25,2
+PO07,Alondra,Alauda arvensis,>25,3
+PO07,Urraca,Pica pica,<25,1
+PO07,Torcaz,Columba palumbus,>25,11
+PO07,Gorrión,Passer domesticus,<25,6
+PO07,Avión común,Delichon urbicum,>25,8
+PO07,Golondrina,Hirundo rustica,>25,5
+PO07,Pato,Anas platyrhynchos,>25,3
+PO07,Corneja,Corvus corone,>25,1
+PO07,Verdecillo,Serinus serinus,<25,1
+PO07,Urraca,Pica pica,<25,1
+PO07,Ruiseñor bastardo,Cettia cetti,>25,2
+PO08,Gorrión,Passer domesticus,<25,20
+PO08,Charlo,Turdus viscivorus,>25,2
+PO08,Estornino,Sturnus vulgaris,>25,5
+PO08,Torcaz,Columba palumbus,>25,5
+PO08,Urraca,Pica pica,<25,2
+PO08,Vencejo,Apus apus,>25,8
+PO08,Avión común,Delichon urbicum,>25,1
+PO08,Verdecillo,Serinus serinus,<25,2
+PO08,Halcón,Falco sp.,>25,1
+PO09,Vencejo,Apus apus,>25,10
+PO09,Estornino,Sturnus vulgaris,>25,2
+PO09,Avión común,Delichon urbicum,>25,8
+PO09,Urraca,Pica pica,<25,3
+PO09,Zorzal común,Turdus philomelos,<25,2
+PO09,Oropéndola,Oriolus oriolus,>25,1
+PO09,Mirlo,Turdus merula,<25,2
+PO09,Pinzón,Fringilla coelebs,<25,1
+PO09,Jilguero,Carduelis carduelis,>25,1
+PO09,Agateador,Certhia sp.,<25,2
+PO09,Charlo,Turdus viscivorus,>25,1
+PO09,Molinero,Passer montanus,<25,14
+PO10,Vencejo,Apus apus,>25,2
+PO10,Torcaz,Columba palumbus,>25,8
+PO10,Pinzón,Fringilla coelebs,<25,2
+PO10,Milano negro,Milvus migrans,>25,2
+PO10,Gorrión,Passer domesticus,<25,6
+PO10,Urraca,Pica pica,<25,5
+PO10,Avión común,Delichon urbicum,>25,5
+PO10,Lavandera blanca,Motacilla alba,<25,1
+PO10,Estornino,Sturnus vulgaris,>25,6
+PO10,Verderón,Chloris chloris,<25,1
+PO10,Pito real,Picus sharpei,>25,1
+PO10,Cabecinegra,Sylvia melanocephala,<25,2
+
