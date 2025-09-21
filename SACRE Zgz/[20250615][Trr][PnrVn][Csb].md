@@ -274,6 +274,8 @@ Audio de WhatsApp
 2025-06-15 a las 08.34.33_eedd74cd
 
 
+# [Csb]
+
 ## PO01 Casablanca [Csb]
 - 1 verdecillo
 - 1 urraca
@@ -321,7 +323,7 @@ Audio de WhatsApp
 
 
 
-## PO08 [Csb]
+## PO08-PO10 [Csb]
 - 4 gorriones
 - 2 charlos
 - 1 estornino
@@ -339,6 +341,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.27.17_e2a32f83
 
+## PO08-PO10 [Csb]
 
 - 2 torcaces
 - 2 urracas
@@ -347,13 +350,14 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.31.04_4661b7eb
 
+## PO08-PO10 [Csb]
 "tramo del 8 al 10"
 
 Audio de WhatsApp 
 ----
 2025-06-15 a las 10.34.25_60a6833b
 
-
+## PO08-PO10 [Csb]
 - 4 vencejos
 - 4 gorriones
 
@@ -361,6 +365,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.33.46_dead6340
 
+## PO08-PO10 [Csb]
 - 12 gorriones
 - 4 estorninos
 - 3 torcaces
@@ -371,6 +376,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.39.25_8ed6a1e6
 
+## PO05 [Csb]
 "Cinco"
 
 - 2 golondrinas
@@ -391,7 +397,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.47.00_d347d507
 
-
+## PO07 [Csb]
 "Siete"
 - 4 gorriones
 - 4 avion
@@ -403,6 +409,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 10.58.04_451b7c27
 
+## PO07 [Csb]
 "añadir.."
 - verdecillo
 - urraca
@@ -411,7 +418,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 11.06.43_4140fd18
 
-
+## PO07 [Csb]
 - 2 bastardos
 - 2 gorriones
 - 4 aviones
@@ -420,6 +427,7 @@ Audio de WhatsApp
 ----
 2025-06-15 a las 11.06.11_a32aa361
 
+## [PnrVn][Trr]
 "Añadir"
 - paloma depredada coincidente con Pinares Venecia junto al legionario y otro en Cabezo Buenavista (otros puntos SACRE-Zgz) Abubilla y gorrion molinero y trayecto canal herrerillo y a mitad 2 agateadores, 6 vencejos (Cabezo)
 
