@@ -9,4 +9,5 @@
 
 # [Agateador euroasiático (*Certhia familiaris*)]
 
-- 
+- <audio controls src="XC475949 - Agateador europeo - Certhia brachydactyla megarhynchos.mp3" title="XC475949></audio>
+- <audio controls src="XC1080310 - Agateador europeo - Certhia brachydactyla brachydactyla.wav" title="Title">XC1080310</audio>
