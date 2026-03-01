@@ -4,10 +4,11 @@
 - <audio controls src="XC78151 - Reyezuelo listado - Regulus ignicapilla ignicapilla.mp3" title="XC78151"></audio>
 
 # [Reyezuelo sencillo (*Regulus regulus*) Linnaeus, 1758](https://xeno-canto.org/species/Regulus-regulus)
-
 - <audio controls src="XC399748 - Reyezuelo sencillo - Regulus regulus regulus.mp3" title="XC399748"></audio>
 
-# [Agateador euroasiático (*Certhia familiaris*)]
+# Agateador euroasiático (*Certhia familiaris*)
+- <audio controls src="XC646007 - Agateador euroasiático - Certhia familiaris macrodactyla.mp3" title="XC646007"></audio>
 
+# Agateador europeo (*Certhia brachydactyla*)
 - <audio controls src="XC475949 - Agateador europeo - Certhia brachydactyla megarhynchos.mp3" title="XC475949></audio>
 - <audio controls src="XC1080310 - Agateador europeo - Certhia brachydactyla brachydactyla.wav" title="Title">XC1080310</audio>
