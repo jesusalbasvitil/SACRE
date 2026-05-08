@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Boceto Póster SEO/BirdLife</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+        .poster {
+            width: 800px;
+            background-color: white;
+            border: 3px solid #333;
+            padding: 40px;
+            box-shadow: 10px 10px 0px #ccc;
+            color: #222;
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px dashed #333;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+        }
+        h1 {
+            font-size: 2.2em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+        .section {
+            border: 1px solid #999;
+            padding: 15px;
+            position: relative;
+        }
+        .section h2 {
+            font-size: 1.2em;
+            background: white;
+            position: absolute;
+            top: -20px;
+            left: 10px;
+            padding: 0 10px;
+            border: 1px solid #333;
+        }
+        .sketch-box {
+            width: 100%;
+            height: 150px;
+            border: 2px solid #222;
+            margin: 15px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #fff;
+            position: relative;
+            overflow: hidden;
+        }
+        /* Simulación de estilo sketch con líneas */
+        .sketch-box::before {
+            content: "";
+            position: absolute;
+            width: 120%;
+            height: 120%;
+            background-image: repeating-linear-gradient(45deg, transparent, transparent 20px, rgba(0,0,0,0.05) 21px);
+        }
+        .sketch-img {
+            font-style: italic;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            color: #444;
+            z-index: 1;
+        }
+        ul {
+            padding-left: 20px;
+            font-size: 0.9em;
+        }
+        footer {
+            margin-top: 30px;
+            border-top: 2px dashed #333;
+            padding-top: 15px;
+            font-size: 0.8em;
+            text-align: center;
+        }
+        .partners {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="poster">
+    <header>
+        <h1>Alianzas por la Vida</h1>
+        <p>SEO/BirdLife: Integrando Naturaleza y Agricultura</p>
+    </header>
+
+    <div class="grid">
+        <!-- Sección 1: Custodia con Agricultores -->
+        <div class="section">
+            <h2>Custodia del Territorio</h2>
+            <div class="sketch-box">
+                <div class="sketch-img">[Sketch: Técnico de SEO y agricultor revisando una caja nido en una finca de cereal]</div>
+            </div>
+            <p><strong>LIFE Agroestepas Ibéricas:</strong> Acuerdos voluntarios con propietarios (ej. Finca Huega_2) para la protección de avutardas y sisones [1, 2].</p>
+            <ul>
+                <li>Mantenimiento de yermos y barbechos [3].</li>
+                <li>Siembra de leguminosas (alfalfa) con semilla no blindada [3].</li>
+            </ul>
+        </div>
+
+        <!-- Sección 2: Olivares Vivos -->
+        <div class="section">
+            <h2>Olivares Vivos</h2>
+            <div class="sketch-box">
+                <div class="sketch-img">[Sketch: Olivar con cubierta vegetal densa e insectos polinizadores]</div>
+            </div>
+            <p><strong>Somontano (NextGenEU):</strong> Recuperación de biodiversidad en 21 explotaciones de variedades autóctonas [4, 5].</p>
+            <ul>
+                <li>Manejo mecánico de la cubierta herbácea [6].</li>
+                <li>Instalación de nidales para insectos, aves y murciélagos [7, 8].</li>
+            </ul>
+        </div>
+
+        <!-- Sección 3: Innovación y Empresas -->
+        <div class="section">
+            <h2>Innovación (COVERCROPS)</h2>
+            <div class="sketch-box">
+                <div class="sketch-img">[Sketch: Tractor sembrando plantas aromáticas entre hileras de cerezos]</div>
+            </div>
+            <p><strong>Grupo Operativo:</strong> Colaboración con empresas (Nectacinca, SAT Río Cinca) y centros de investigación (CITA/FITA) [9, 10].</p>
+            <ul>
+                <li>Plantación de salvia y herbáceas en calles de frutales [11, 12].</li>
+                <li>Fomento de polinizadores (Himenópteros y Sírfidos) [13, 14].</li>
+            </ul>
+        </div>
+
+        <!-- Sección 4: Ayuntamientos y Paisaje -->
+        <div class="section">
+            <h2>Protección del Paisaje</h2>
+            <div class="sketch-box">
+                <div class="sketch-img">[Sketch: Rebaño de ovejas pastoreando cerca de un núcleo urbano]</div>
+            </div>
+            <p><strong>Prevención de Incendios:</strong> Colaboración con Ayuntamientos (Alquézar, Castillazuelo, Estadilla) [15, 16].</p>
+            <ul>
+                <li>Recuperación de antiguos huertos perimetrales [15].</li>
+                <li>Pastoreo preventivo para reducir carga de combustible [17].</li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>Una colaboración estratégica financiada por: Programa LIFE, Fondos Next Generation-UE y Gobierno de Aragón [1, 18, 19].</p>
+        <div class="partners">
+            <span>Comarca Somontano</span>
+            <span>CITA / FITA</span>
+            <span>Nectacinca</span>
+            <span>ARNA Apicultura</span>
+            <span>ASAJA</span>
+        </div>
+    </footer>
+</div>
+
+</body>
+</html>
