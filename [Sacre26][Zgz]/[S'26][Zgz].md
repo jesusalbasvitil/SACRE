@@ -44,10 +44,10 @@ varios gorriones
 T2
 
 WhatsApp Ptt 2026-06-20 at 08.39.12
-3 molineros, 4-6 gorriones
+T3 3 molineros, 4-6 gorriones
 
 WhatsApp Ptt 2026-06-20 at 08.46.11
-Incrédulos? 17 bravias, 1 oropendola, 1 cerrojillo, 1 cascadeña 1 jilguero, milano negro
+T5 17 bravias, 1 oropendola, 1 cerrojillo, 1 cascadeña 1 jilguero, milano negro
 
 WhatsApp Ptt 2026-06-20 at 08.48.10
 C5 Carbonero, verdecillo, reyezuelo, 2 torcaces, 2 estorninos, 2 comunes, 1 vencejo
@@ -56,7 +56,252 @@ WhatsApp Ptt 2026-06-20 at 08.57.58
 C5 2 gorriones, 1 gholondrina, 2 urracas, 3-4 torcaces, 3 vencejo, 1 zapador, 2 estorninos
 
 WhatsApp Ptt 2026-06-20 at 09.07.14
-C3 Depósitos 30 bravias, urraca, 2 torcaces, 6 vencejos, 4 aviones
+C3 Depósitos 30 bravias, urraca, 2 torcaces, 6 vencejos, 4 aviones. 2 herrerillos
 
 WhatsApp Ptt 2026-06-20 at 09.07.48
+1 verdecillo
+
+WhatsApp Ptt 2026-06-20 at 09.11.38
+C1 2 Verdecillo 4 bravias
+
+WhatsApp Ptt 2026-06-20 at 09.20.06
+C10 2 Verdecillos, 1 jilguero, 1 halcón
+
+WhatsApp Ptt 2026-06-20 at 09.25.42
+C9 1 verderón 4 aviones comunes 2 estorninos 1 vencejo 2 torcaces
+
+WhatsApp Ptt 2026-06-20 at 09.27.43
+C9 oropéndola
+
+C8 2 torcaces 1 golondrina 1 capirotada 2 estorninos 
+
+WhatsApp Ptt 2026-06-20 at 09.36.32
+C6 1 gorrión, 1 torcáz, 1 garza real, 1 verderón "vamos a C01"
+Cernícalo 50 aviones comunes
+
+WhatsApp Ptt 2026-06-20 at 09.44.27
+Cº Fuente Salud C1
+12 aviones comunes
+2 golondrinas 
+2 verderones
+3-4 estorninos 
+2 gorriones
+2 verderones
+2 urracas
+
+WhatsApp Ptt 2026-06-20 at 09.44.36 WhatsApp Ptt 2026-06-20 at 09.47.43
+cabecinegra
+C1 
+20 Bravía
+
+WhatsApp Ptt 2026-06-20 at 09.58.51
+2 torcaz, 1 urraca
+"final Cuesta Legionario"
+3-4 jilgueros
+
+WhatsApp Ptt 2026-06-20 at 09.59.59
+T4 Cuesta legionario
+1 jilguero
+1 gorrión
+2 pinzones
+
+WhatsApp Ptt 2026-06-20 at 10.12.18
+T7 Carbonero común
+3-4 verdecillos
+cogijadas comunes
+
+WhatsApp Ptt 2026-06-20 at 10.20.12
+V8 Barranco Muerte
+Oropéndola
+3 urracas 
+12 vencejos
+
+WhatsApp Ptt 2026-06-20 at 10.20.26
+torcaz
+1 gorrión
+
+WhatsApp Ptt 2026-06-20 at 10.20.59
+V8
+2 jilgueros
+
+WhatsApp Ptt 2026-06-20 at 10.28.08
+V10
+4 lavanderas blancas
+6 golondrinas
+2 listados
+4 urracas
+2 pinzones
+
+WhatsApp Ptt 2026-06-20 at 10.34.47
+V6
+9 grajillas
+16 aviones comunes
+
+WhatsApp Ptt 2026-06-20 at 10.35.10
+1 abubilla 
+1 torcaz
+
+## 20260621
+WhatsApp Ptt 2026-06-21 at 07.37.03
+T9 6 vencejos
+11  bravias
+6 gorriones
+1 estornino
+1 patiamarilla
+1 turca
+
+WhatsApp Ptt 2026-06-21 at 07.42.50
+T1 10 torcaces
+Agateador
+2 turca
+2 bravias
+mirlo 
+2 gorriones 
+
+WhatsApp Ptt 2026-06-21 at 07.47.00
+T10 6 gorriones
+
+WhatsApp Ptt 2026-06-21 at 07.49.11
+11 vencejos
+1 torcaz
+3 aviones com
+
+WhatsApp Ptt 2026-06-21 at 07.54.54 WhatsApp Ptt 2026-06-21 at 07.56.26
+T5
+4 turcas
+5 torcaces
+3 gorriones
+"Gps gasolinera"
+"Esq. con 3er"
+2 pardillos
+
+WhatsApp Ptt 2026-06-21 at 08.02.58
+"pasarela"
+5 torcaces
+1 estornino
+1 gorrión
+1 verdecillo
+
+WhatsApp Ptt 2026-06-21 at 08.08.52
+7 torcaces
+1 molinero
+9 bravías
+2 estorninos
+
+WhatsApp Ptt 2026-06-21 at 08.12.22
+T3
+Abubilla
+4 jilgueros
+
+`saltada pos`
+
+WhatsApp Ptt 2026-06-21 at 08.19.13
+T2 
+2 estorninos
+2 patiamarilas
+2 gorriones
+3 torcaces
+
+WhatsApp Ptt 2026-06-21 at 08.19.32
+Oropéndola
+
+WhatsApp Ptt 2026-06-21 at 08.25.03
+jilguero
+capirotada
+reyezuelo listado
+8 bravías
+4 torcaces
+
+WhatsApp Ptt 2026-06-21 at 08.26.08
+10 bravías+
+2 estorninos
+1 golondrina
+
+WhatsApp Ptt 2026-06-21 at 08.35.20
+C5 gorriones 6
+Milano negro
+6 aviones comunes
+2 verderones
+1 estornino
+1 oropéndola
+
+WhatsApp Ptt 2026-06-21 at 08.45.02
+"Saltado un punto.. depósitos"
+5 patiamarillas
+12 estorninos
+7 bravías
+6 aviones comunes
+1 milano negro
+
+WhatsApp Ptt 2026-06-21 at 08.49.53
+"saltado pos. anterior"
+C1 torcaz
+2 vencejos
+1 jilguero
+1 bravía
+
+WhatsApp Ptt 2026-06-21 at 08.56.32
+C10 Avión
+11 vencejos
+1 cabecinegra
+1 torcaz
+
+WhatsApp Ptt 2026-06-21 at 09.01.45
+3 patiamarilla
+1 urraca
+1 carbonero común
+torcaz
+1 avión común
+3 estorninos
+
+WhatsApp Ptt 2026-06-21 at 09.04.14
+4 golondrinas
+1 lavandera blanca
+
+WhatsApp Ptt 2026-06-21 at 09.10.45
+1 estornino
+2 cornejas
+6 gorriones 
+2 torcaces
+
+WhatsApp Ptt 2026-06-21 at 09.17.07
+26 aviones comunes
+1 reyezuelo listado
+torcaz
+2 golondrinas
+
+WhatsApp Ptt 2026-06-21 at 09.36.54
+V7
+2 pardillo
+4 cogujada común
+1 reyezuelo listado
+1 agateador
+2 chillones
+1 pinzón
+
+
+WhatsApp Ptt 2026-06-21 at 09.43.09
+V8
+2 oropendolas
+4 urraca
+2 torcaces
+2 carboneros comunes
+
+WhatsApp Ptt 2026-06-21 at 09.48.06
+V7-10
+4 pardillos
+2 cornejas
+1 patiamarilla
+1 milano negro
+6 torcaces
+10 aviones comunes
+
+WhatsApp Ptt 2026-06-21 at 09.51.56
+V10 torcaz
+2 verderones
+2 golondrina
+12 bravías
+2 vencejos
+2 urracas
+
 
